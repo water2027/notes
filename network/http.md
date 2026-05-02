@@ -167,12 +167,9 @@ eg:
 上一次更新是十年前, 那么缓存一年. 
 
 ### 缓存头
-
-
 > expires: 过期时间. 少见了
 
 主要关于Cache-Control:
-
 - max-age: 缓存有效期
 - Last-Modified/If-Modified-Since
 上次修改时间. 
